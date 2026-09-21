@@ -1,13 +1,13 @@
 {
-  "name": "Радио Шоколад — запуск станции",
-  "short_name": "Радио Шоколад",
-  "description": "Портал запуска станций Радио Шоколад",
+  "name": "Регионы Румедиа",
+  "short_name": "Румедиа",
+  "description": "Регионы Румедиа",
   "lang": "ru",
-  "start_url": "./",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#f4f5f6",
+  "theme_color": "#f4f5f6",
   "icons": [
     {
       "src": "./icon-192.png",
